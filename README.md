@@ -65,12 +65,12 @@ The solution architecture consists of the following components:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/SiRipo92/Fullstack_Dev_Capstone_Project
-   cd Fullstack_Dev_Capstone_Project
+   git clone https://github.com/anv2479/xrwvm-fullstack_developer_capstone
+   cd xrwvm-fullstack_developer_capstone
    ```
 2. **Set up virtual environment**
    ```bash
-   cd Fullstack_Dev_Capstone_Project/server
+   cd xrwvm-fullstack_developer_capstone/server
    pip install virtualenv
    virtualenv djangoenv
    source djangoenv/bin/activate
