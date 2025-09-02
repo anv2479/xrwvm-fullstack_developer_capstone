@@ -139,9 +139,4 @@ The solution architecture consists of the following components:
 1. Kubernetes: Deploy the application and its microservices on Kubernetes for scalability.
 2. IBM Cloud: Deploy the Sentiment Analyzer microservice on IBM Cloud Code Engine.
 
-### Contributors: 
-- Upkar Lidder - Lead Full-Stack Software Developer
-- Lavanya - Full-Stack Developer
-- Yan Luo - Backend Developer
-- Priya - Frontend Developer
-- **Sierra Ripoche - Full-Stack Developer**
+
